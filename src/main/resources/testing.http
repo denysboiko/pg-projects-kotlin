@@ -1,0 +1,9 @@
+### Post 'Hello!"
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "id": 1,
+  "code": "AP-001",
+  "title": "Amazing Project"
+}
